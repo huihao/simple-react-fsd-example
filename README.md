@@ -1,4 +1,4 @@
-#Sample React FSD Example
+# Sample React FSD Example
 React + Redux Toolkit
 
 ## Some Code From 
